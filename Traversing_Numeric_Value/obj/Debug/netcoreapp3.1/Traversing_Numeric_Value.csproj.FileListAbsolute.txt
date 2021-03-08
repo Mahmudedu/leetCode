@@ -1,0 +1,12 @@
+D:\C# Practice Project\Traversing_Numeric_Value\bin\Debug\netcoreapp3.1\Traversing_Numeric_Value.exe
+D:\C# Practice Project\Traversing_Numeric_Value\bin\Debug\netcoreapp3.1\Traversing_Numeric_Value.deps.json
+D:\C# Practice Project\Traversing_Numeric_Value\bin\Debug\netcoreapp3.1\Traversing_Numeric_Value.runtimeconfig.json
+D:\C# Practice Project\Traversing_Numeric_Value\bin\Debug\netcoreapp3.1\Traversing_Numeric_Value.runtimeconfig.dev.json
+D:\C# Practice Project\Traversing_Numeric_Value\bin\Debug\netcoreapp3.1\Traversing_Numeric_Value.dll
+D:\C# Practice Project\Traversing_Numeric_Value\bin\Debug\netcoreapp3.1\Traversing_Numeric_Value.pdb
+D:\C# Practice Project\Traversing_Numeric_Value\obj\Debug\netcoreapp3.1\Traversing_Numeric_Value.AssemblyInfoInputs.cache
+D:\C# Practice Project\Traversing_Numeric_Value\obj\Debug\netcoreapp3.1\Traversing_Numeric_Value.AssemblyInfo.cs
+D:\C# Practice Project\Traversing_Numeric_Value\obj\Debug\netcoreapp3.1\Traversing_Numeric_Value.csproj.CoreCompileInputs.cache
+D:\C# Practice Project\Traversing_Numeric_Value\obj\Debug\netcoreapp3.1\Traversing_Numeric_Value.dll
+D:\C# Practice Project\Traversing_Numeric_Value\obj\Debug\netcoreapp3.1\Traversing_Numeric_Value.pdb
+D:\C# Practice Project\Traversing_Numeric_Value\obj\Debug\netcoreapp3.1\Traversing_Numeric_Value.genruntimeconfig.cache

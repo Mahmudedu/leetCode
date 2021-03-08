@@ -1,0 +1,12 @@
+D:\C# Practice Project\Traversing_Numeric_Value\bin\Debug\netcoreapp3.1\Reversing_InegerNumber.exe
+D:\C# Practice Project\Traversing_Numeric_Value\bin\Debug\netcoreapp3.1\Reversing_InegerNumber.deps.json
+D:\C# Practice Project\Traversing_Numeric_Value\bin\Debug\netcoreapp3.1\Reversing_InegerNumber.runtimeconfig.json
+D:\C# Practice Project\Traversing_Numeric_Value\bin\Debug\netcoreapp3.1\Reversing_InegerNumber.runtimeconfig.dev.json
+D:\C# Practice Project\Traversing_Numeric_Value\bin\Debug\netcoreapp3.1\Reversing_InegerNumber.dll
+D:\C# Practice Project\Traversing_Numeric_Value\bin\Debug\netcoreapp3.1\Reversing_InegerNumber.pdb
+D:\C# Practice Project\Traversing_Numeric_Value\obj\Debug\netcoreapp3.1\Reversing_InegerNumber.AssemblyInfoInputs.cache
+D:\C# Practice Project\Traversing_Numeric_Value\obj\Debug\netcoreapp3.1\Reversing_InegerNumber.AssemblyInfo.cs
+D:\C# Practice Project\Traversing_Numeric_Value\obj\Debug\netcoreapp3.1\Reversing_InegerNumber.csproj.CoreCompileInputs.cache
+D:\C# Practice Project\Traversing_Numeric_Value\obj\Debug\netcoreapp3.1\Reversing_InegerNumber.dll
+D:\C# Practice Project\Traversing_Numeric_Value\obj\Debug\netcoreapp3.1\Reversing_InegerNumber.pdb
+D:\C# Practice Project\Traversing_Numeric_Value\obj\Debug\netcoreapp3.1\Reversing_InegerNumber.genruntimeconfig.cache
